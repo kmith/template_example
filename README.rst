@@ -9,7 +9,7 @@ This example shows how input arguments required for an examplar C++ example can 
 Inputs
 ======
 
-If the example requires arguments to be input to the application to get the expected results then this information should be set in a file named *arguments.cmake* inside a directory named *inputs*.  The documentation needs to state which arguments result in the expected results.
+If the example requires arguments to be input to the application to get the expected results then this information should be set in a file named *arguments.cmake* inside a directory named *inputs*.  The documentation should also state which arguments must be passed to the application to get the expected results.
 
 Remember
 ========
