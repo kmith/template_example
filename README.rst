@@ -18,4 +18,4 @@ What is different here from the basic template in the `master <https://github.co
 Remember
 ========
 
-Replace this file with a description about your example using the `README.template.rst`_ file as a starting point.
+Replace this file with a description about your example using the `README.template.rst <README.template.rst>`_ file as a starting point.
