@@ -10,9 +10,9 @@ Input files
 ===========
 
 If the example requires files to be used as resources for the application, for example a CellML file, 
-to get the expected results then resource files such as this should be added inside a directory named inputs. The documentation needs to state which resource files are required to result in the expected results.
+to get the expected results then resource files such as tha CellML file should be added inside a directory named inputs. The documentation needs to state which resource files are required to result in the expected results.
 
-The CMake file *src/fortran/CMakeLists.txt* has a minor change to copy over the resource file into the build directory.  There are other alternative solutions to the problems of resource file and we need to choose the best option for that best matches the example.  Below is the modified *src/fortran/CMakeLists.txt* file::
+The CMake file *src/fortran/CMakeLists.txt* has a minor change to copy over the resource file into the build directory.  There are other solutions to the problem of managing how a resource file is used in an applicaiton and we should choose the option that best matches the needs of the example.  Below is the modified *src/fortran/CMakeLists.txt* file that shows how this example has dealt with a small resource file::
 
   add_executable(XXXXXXXX ZZZZZZZZ.F90)
 
