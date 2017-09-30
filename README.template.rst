@@ -6,14 +6,19 @@ Laplace Equation
 
 This example solves the standard Laplace equation of the form
 
+|laplace_equation|.
+
 .. image:: ./images/laplace_equation.gif
     :align: center
     
 where |conductivity_tensor| is the rank two conductivity tensor and |phi| is a scalar field (e.g. temperature). However, in this example an isotropic material with |equation1| (identity tensor) is considered.   
 
+.. |laplace_equation| image:: ./images/laplace_equation.gif
 .. |conductivity_tensor| image:: ./images/conductivity_tensor.gif    
 .. |phi| image:: ./images/field_scalar.gif 
 .. |equation1| image:: ./images/equation1.gif
+
+
 
 Building the example
 ====================
