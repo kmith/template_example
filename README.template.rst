@@ -16,16 +16,14 @@ where |conductivity_tensor| is the rank two conductivity tensor and |phi| is a s
 .. |equation1| image:: ./images/equation1.gif
 
 
-
 Building the example
 ====================
 
-If this not a pure Python example place the instructions here on how to configure and build with CMake::
+The fortran version of the example can be confiured and built with CMake::
 
-  git clone https://github.com/you/your-example.git # maybe your example is somewhere else like: OpenCMISS-Examples
-  mkdir build
-  cmake -DOpenCMISSLibs_DIR=/path/to/opencmisslib/install ../your-example
-  make  # cmake --build . will also work here and is much more platform agnostic.
+  git clone https://github.com/OpenCMISS-Examples/laplace_equation
+  cmake -DOpenCMISSLibs_DIR=/path/to/opencmisslib/install
+  make
 
 Running the example
 ===================
