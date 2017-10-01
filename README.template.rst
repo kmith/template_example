@@ -8,7 +8,7 @@ This example solves the weak form of the standard Laplace equation,
 
 |laplace_equation|
 
-using the Galerkin Finite Element method. |conductivity_tensor| is the rank two conductivity tensor and |phi| is a scalar field (e.g. temperature). A homogeneous and isotropic material with |equation1| (identity tensor) is considered in this example. As a result, |conductivity_tensor| in the above equation becomes redundant and the equation reduces to
+using the Galerkin Finite Element method. |conductivity_tensor| and |phi| are the rank two conductivity tensor and a scalar field (e.g. temperature) respectively. A homogeneous and isotropic material with |equation1| (identity tensor) is considered in this example. As a result, |conductivity_tensor| in the above equation becomes redundant and the equation reduces to
 
 |laplace_equation2|.
 
