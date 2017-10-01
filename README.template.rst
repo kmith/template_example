@@ -58,7 +58,7 @@ where the XY in the path are the Python major and minor versions respectively.
 
 The results can be visualised by running `visualise.com <./src/fortran/visualise.com>`_ with the `Cmgui visualiser <http://physiomeproject.org/software/opencmiss/cmgui/download>`_.
 
-The following figures show the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
+The following figure shows the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
  
 .. |figure1a| image:: ./images/mesh.svg
    :align: middle
