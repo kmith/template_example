@@ -16,10 +16,11 @@ where |conductivity_tensor| is the rank two conductivity tensor and |phi| is a s
 .. |conductivity_tensor| image:: ./images/conductivity_tensor.svg 
    :align: middle
 
-
-
-.. |phi| image:: ./images/field_scalar.gif 
-.. |equation1| image:: ./images/equation1.gif
+.. |phi| image:: ./images/field_scalar.svg
+   :align: middle
+   
+.. |equation1| image:: ./images/equation1.svg
+   :align: middle
 
 
 Building the example
