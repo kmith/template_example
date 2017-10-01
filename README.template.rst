@@ -24,6 +24,7 @@ The fortran version of the example can be confiured and built with CMake::
   mkdir examples
   cd examples
   git clone https://github.com/OpenCMISS-Examples/laplace_equation
+  cd laplace_equation
   cmake -DOpenCMISSLibs_DIR=/path/to/opencmisslib/install
   make
 
@@ -32,7 +33,8 @@ Running the example
 
 Fortran version::
 
-  ./src/fortran/laplace_equation
+  cd src/fortran
+  ./laplace_equation
 
 Python version::
 
@@ -40,6 +42,8 @@ Python version::
   python src/python/XXXXXXXX.py
 
 where the XY in the path are the Python major and minor versions respectively.
+
+The results can be visualised by running `visualise.com <./src/fortran/visualise.com>`_ with cmgui visulaiser.
 
 Prerequisites
 =============
