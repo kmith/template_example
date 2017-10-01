@@ -19,7 +19,7 @@ where |conductivity_tensor| is the rank two conductivity tensor and |phi| is a s
 Building the example
 ====================
 
-The fortran version of the example can be confiured and built with CMake::
+The fortran version of the example can be configured and built with CMake::
 
   mkdir examples
   cd examples
