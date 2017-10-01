@@ -62,13 +62,17 @@ The following figures show the finite element mesh (computational domain) and so
  
 .. |figure1a| image:: ./images/mesh.svg
    :align: middle
+   :width: 300
+   :scale: 100
    
 .. |figure1b| image:: ./images/field_solution.svg
-   :align: middle   
-   
-   
+   :align: middle  
+   :width: 300
+   :scale: 100
+    
 |figure1a|  |figure1b|  
-   
+
+Figure 1. (a) Finite element mesh (b) Solution
    
    
 Prerequisites
