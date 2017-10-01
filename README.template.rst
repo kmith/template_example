@@ -43,7 +43,7 @@ Python version::
 
 where the XY in the path are the Python major and minor versions respectively.
 
-The results can be visualised by running `visualise.com <./src/fortran/visualise.com>`_ with the `Cmgui visualiser <./http://physiomeproject.org/software/opencmiss/cmgui/download>`_.
+The results can be visualised by running `visualise.com <./src/fortran/visualise.com>`_ with the `Cmgui visualiser <physiomeproject.org/software/opencmiss/cmgui/download>`_.
 
 
 Prerequisites
