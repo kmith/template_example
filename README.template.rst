@@ -64,7 +64,7 @@ The following figures show the finite element mesh (computational domain) and so
 
 .. figure:: ./images/mesh.jpg
    :scale: 50 %
-   :alt: map to buried treasure
+   Finite element mesh
 
 
 
