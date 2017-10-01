@@ -44,9 +44,9 @@ where the XY in the path are the Python major and minor versions respectively.
 Prerequisites
 =============
 
-Are there any external sources that are required over and above CMake, OpenCMISS libraries.  Sources like meshes which might be stored outside of the example itself.
+There are no additional input files required for this example as it is self-contained.
 
 License
 =======
 
-A line on the license applicable to this example.
+License applicable to this example is described in `LICENSE <./LICENSE>`_.
