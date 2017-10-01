@@ -73,20 +73,7 @@ The following figures show the finite element mesh (computational domain) and so
 |figure1a|  |figure1b|  
 
 Figure 1. (a) Finite element mesh (b) Solution
- 
- 
- 
-Before red.
-
-.. role:: rubric
-
-I like color :rubric:`rubric`.
-
-After red. 
- 
-      
-      
-   
+    
 Prerequisites
 =============
 
