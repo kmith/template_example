@@ -59,15 +59,6 @@ where the XY in the path are the Python major and minor versions respectively.
 The results can be visualised by running `visualise.com <./src/fortran/visualise.com>`_ with the `Cmgui visualiser <http://physiomeproject.org/software/opencmiss/cmgui/download>`_.
 
 The following figures show the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
-
-|mesh||field_solution|
-
-.. |mesh| figure:: ./images/mesh.jpg
-   :width: 45%
-
-.. |field_solution| figure:: ./images/field_solution.jpg
-   :width: 45%
-   
  
 .. figure:: ./images/mesh.jpg
     :width: 200px
@@ -77,6 +68,16 @@ The following figures show the finite element mesh (computational domain) and so
     :figclass: align-center
 
     Finite element mesh 
+    
+.. figure:: ./images/field_solution.jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+    :figclass: align-center
+
+    Field solution     
+    
  
 Prerequisites
 =============
