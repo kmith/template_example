@@ -64,13 +64,13 @@ The following figures show the finite element mesh (computational domain) and so
    :scale: 10 %
    :align: right
    
-    Figure 1. Finite element mesh ###########
+   Figure 1. Finite element mesh
     
 .. figure:: ./images/field_solution.svg
    :scale: 10 %
    :align: right
    
-   Figure 2. Field solution xxxxxxxxxxxxxx    
+   Figure 2. Field solution   
     
  
 Prerequisites
