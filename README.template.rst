@@ -60,12 +60,12 @@ The results can be visualised by running `visualise.com <./src/fortran/visualise
 
 The following figures show the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
 
-|mesh|     |field_solution|
+|mesh||field_solution|
 
-.. |mesh| image:: ./images/mesh.jpg
+.. |mesh| figure:: ./images/mesh.jpg
    :width: 45%
 
-.. |field_solution| image:: ./images/field_solution.jpg
+.. |field_solution| figure:: ./images/field_solution.jpg
    :width: 45%
    
    
