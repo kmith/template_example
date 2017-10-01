@@ -60,25 +60,28 @@ The results can be visualised by running `visualise.com <./src/fortran/visualise
 
 The following figures show the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
  
-.. figure:: ./images/mesh.svg
-   :scale: 10 %
-   :align: right
+    .. figure:: ./images/mesh.svg
+       :scale: 10 %
+       :align: right
    
-   Figure 1. Finite element mesh
+       Figure 1. Finite element mesh
     
-.. figure:: ./images/field_solution.svg
-   :scale: 10 %
-   :align: right
+    .. figure:: ./images/field_solution.svg
+       :scale: 10 %
+       :align: right
    
-   Figure 2. Field solution   
+       Figure 2. Field solution   
     
- .. |figure1a| image:: ./images/mesh.svg
-    :align: middle
+    
+    
+.. |figure1a| image:: ./images/mesh.svg
+   :align: middle
    
- .. |figure1b| image:: ./images/field_solution.svg
-    :align: middle   
+.. |figure1b| image:: ./images/field_solution.svg
+   :align: middle   
    
-  |figure1a| in the  |figure1b|  
+   
+|figure1a| in the  |figure1b|  
    
    
    
