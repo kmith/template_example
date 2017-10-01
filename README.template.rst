@@ -30,11 +30,11 @@ The fortran version of the example can be confiured and built with CMake::
 Running the example
 ===================
 
-Explain how the example is run::
+Fortran version::
 
   ./src/fortran/laplace_equation
 
-or maybe it is a Python only example::
+Python version::
 
   source /path/to/opencmisslibs/install/virtaul_environments/oclibs_venv_pyXY_release/bin/activate
   python src/python/XXXXXXXX.py
