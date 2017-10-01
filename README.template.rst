@@ -72,7 +72,16 @@ The following figures show the finite element mesh (computational domain) and so
    
    Figure 2. Field solution   
     
- 
+ .. |figure1a| image:: ./images/mesh.svg
+    :align: middle
+   
+ .. |figure1b| image:: ./images/field_solution.svg
+    :align: middle   
+   
+  |figure1a| in the  |figure1b|  
+   
+   
+   
 Prerequisites
 =============
 
