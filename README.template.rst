@@ -67,7 +67,7 @@ The following figures show the finite element mesh (computational domain) and so
     :alt: alternate text
     :figclass: align-center
 
-    Finite element mesh 
+    Figure 1. Finite element mesh 
     
 .. figure:: ./images/field_solution.jpg
     :width: 200px
@@ -76,7 +76,7 @@ The following figures show the finite element mesh (computational domain) and so
     :alt: alternate text
     :figclass: align-center
 
-    Field solution     
+    Figure 2. Field solution     
     
  
 Prerequisites
