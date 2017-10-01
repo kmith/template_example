@@ -63,8 +63,7 @@ The following figures show the finite element mesh (computational domain) and so
 
 
 .. figure:: ./images/mesh.jpg
-   :scale: 50 %
-   Finite element mesh
+   :align: center
 
 
 
