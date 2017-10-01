@@ -21,6 +21,8 @@ Building the example
 
 The fortran version of the example can be confiured and built with CMake::
 
+  mkdir examples
+  cd examples
   git clone https://github.com/OpenCMISS-Examples/laplace_equation
   cmake -DOpenCMISSLibs_DIR=/path/to/opencmisslib/install
   make
@@ -30,8 +32,7 @@ Running the example
 
 Explain how the example is run::
 
-  cd build
-  ./src/fortran/XXXXXXXX
+  ./src/fortran/laplace_equation
 
 or maybe it is a Python only example::
 
