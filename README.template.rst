@@ -12,6 +12,8 @@ where |conductivity_tensor| is the rank two conductivity tensor and |phi| is a s
 
 |laplace_equation2|.
 
+Only Dirichlet boundary conditions are used.
+
 .. |laplace_equation| image:: ./images/laplace_equation.svg
    :align: middle
 
