@@ -51,11 +51,8 @@ Fortran version::
 
 Python version::
 
-  source /path/to/opencmisslibs/install/virtaul_environments/oclibs_venv_pyXY_release/bin/activate
-  python src/python/XXXXXXXX.py
-
-where the XY in the path are the Python major and minor versions respectively.
-
+  PYTHONPATH="/path/to/opencmisslibs/install/.../.../Release/opencmiss.iron" python laplace_equation.py   
+  
 The results can be visualised by running `visualise.com <./src/fortran/visualise.com>`_ with the `Cmgui visualiser <http://physiomeproject.org/software/opencmiss/cmgui/download>`_.
 
 The following figure shows the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
