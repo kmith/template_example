@@ -60,7 +60,6 @@ The results can be visualised by running `visualise.com <./src/fortran/visualise
 
 The following figures show the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
  
-    
 .. |figure1a| image:: ./images/mesh.svg
    :align: middle
    
@@ -68,7 +67,7 @@ The following figures show the finite element mesh (computational domain) and so
    :align: middle   
    
    
-|figure1a| in the  |figure1b|  
+|figure1a|  |figure1b|  
    
    
    
