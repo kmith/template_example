@@ -6,7 +6,7 @@ Laplace Equation
 
 This example solves the weak form of the standard Laplace equation,
 
-|laplace_equation|
+|laplace_equation1|
 
 using the Galerkin Finite Element method. |conductivity_tensor| and |phi| are the rank two conductivity tensor and a scalar field (e.g. temperature) respectively. A homogeneous and isotropic material with |equation1| (identity tensor) is considered in this example. As a result, |conductivity_tensor| in the above equation becomes redundant and the equation reduces to
 
@@ -14,7 +14,7 @@ using the Galerkin Finite Element method. |conductivity_tensor| and |phi| are th
 
 Only Dirichlet boundary conditions are prescribed.
 
-.. |laplace_equation| image:: ./images/laplace_equation.svg
+.. |laplace_equation1| image:: ./images/laplace_equation1.svg
    :align: middle
 
 .. |conductivity_tensor| image:: ./images/conductivity_tensor.svg 
