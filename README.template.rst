@@ -60,10 +60,15 @@ The results can be visualised by running `visualise.com <./src/fortran/visualise
 
 The following figures show the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
 
-.. |mesh| image:: ./images/mesh.jpg
-   :align: middle
 
-|mesh|
+
+.. |aaaa| figure:: ./images/mesh.jpg
+   :scale: 50 %
+   :alt: map to buried treasure
+
+|aaaa|
+
+
 
 Prerequisites
 =============
