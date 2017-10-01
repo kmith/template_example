@@ -68,7 +68,16 @@ The following figures show the finite element mesh (computational domain) and so
 .. |field_solution| figure:: ./images/field_solution.jpg
    :width: 45%
    
-   
+ 
+.. figure:: ./images/mesh.jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+    :figclass: align-center
+
+    Finite element mesh 
+ 
 Prerequisites
 =============
 
