@@ -13,7 +13,7 @@ where |conductivity_tensor| is the rank two conductivity tensor and |phi| is a s
 .. |laplace_equation| image:: ./images/laplace_equation.gif
 
 
-.. |conductivity_tensor| image:: ./images/conductivity_tensor.png    
+.. |conductivity_tensor| image:: ./images/conductivity_tensor.svg    
    :align: middle
 
 
