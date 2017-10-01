@@ -4,9 +4,11 @@
 Laplace Equation
 ================
 
-This example solves the standard Laplace equation of the form
+This example solves the weak form of the standard Laplace equation,
 
-|laplace_equation|.
+|laplace_equation|
+
+using the Galerkin Finite Element method.
     
 where |conductivity_tensor| is the rank two conductivity tensor and |phi| is a scalar field (e.g. temperature). However, in this example a homogeneous, isotropic material with |equation1| (identity tensor) is considered. As a result, |conductivity_tensor| in the above equation becomes redundant and the equation reduces to
 
