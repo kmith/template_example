@@ -34,11 +34,11 @@ Building the example
 
 The fortran version of the example can be configured and built with CMake::
 
-  mkdir examples
-  cd examples
+  mkdir -p examples/laplace_equation-build
+  cd examples/
   git clone https://github.com/OpenCMISS-Examples/laplace_equation
-  cd laplace_equation
-  cmake -DOpenCMISSLibs_DIR=/path/to/opencmisslib/install
+  cd laplace_equation-build
+  cmake -DOpenCMISSLibs_DIR=/path/to/opencmisslib/install ../laplace_equation
   make
 
 Running the example
