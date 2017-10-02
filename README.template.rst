@@ -14,19 +14,19 @@ using the Galerkin Finite Element method. |conductivity_tensor| and |phi| are th
 
 Only Dirichlet boundary conditions are prescribed.
 
-.. |laplace_equation1| image:: ./images/laplace_equation1.svg
+.. |laplace_equation1| image:: ./docs/images/laplace_equation1.svg
    :align: middle
 
-.. |conductivity_tensor| image:: ./images/conductivity_tensor.svg 
+.. |conductivity_tensor| image:: ./docs/images/conductivity_tensor.svg 
    :align: middle
 
-.. |phi| image:: ./images/field_scalar.svg
+.. |phi| image:: ./docs/images/field_scalar.svg
    :align: middle
    
-.. |equation1| image:: ./images/equation1.svg
+.. |equation1| image:: ./docs/images/equation1.svg
    :align: middle
 
-.. |laplace_equation2| image:: ./images/laplace_equation2.svg
+.. |laplace_equation2| image:: ./docs/images/laplace_equation2.svg
    :align: middle
    
 Building the example
@@ -57,12 +57,12 @@ The results can be visualised by running `visualise.com <./src/fortran/visualise
 
 The following figure shows the finite element mesh (computational domain) and solution (scalar field variable, |phi|).  
  
-.. |figure1a| image:: ./images/mesh.svg
+.. |figure1a| image:: ./docs/images/mesh.svg
    :align: middle
    :width: 300
    :scale: 100
    
-.. |figure1b| image:: ./images/field_solution.svg
+.. |figure1b| image:: ./docs/images/field_solution.svg
    :align: middle  
    :width: 300
    :scale: 100
